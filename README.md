@@ -38,7 +38,7 @@ Driven by relentless curiosity, I use code to solve critical problems across ind
 
 ## 🔥 Contribution Graph
 
-![snake gif](https://github.com/aldorax/snake-gen/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake](https://raw.githubusercontent.com/aldorax/aldorax/output/github-contribution-grid-snake.svg)
 
 ---
 
